@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "LoC - Audio datasets" ] },
+    "summary": { "en": [ "Test for using audiannotate with datasets from LoC." ] },
+    "items": [
+    ]
+}
